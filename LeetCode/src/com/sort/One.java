@@ -21,9 +21,4 @@ public class One {
 			nums1[index--]=nums2[j--];
 		}
 	}
-	public static void main(String[] args) {
-	int arr	[1,2,3,0,0,0]
-				3
-				[2,5,6]
-	}
 }
