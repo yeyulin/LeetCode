@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * Fizz Buzz
+ * @author yeyulin
  */
 public class One {
     public List<String> fizzBuzz(int n) {
